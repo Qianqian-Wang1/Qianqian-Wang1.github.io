@@ -11,7 +11,7 @@ github_repo: "https://github.com/Qianqian-Wang1/Qianqian-Wang1.github.io.git" # 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: ""
+sidebar-about-description: "专注于推荐和广告领域的算法"
 sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
